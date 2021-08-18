@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋!
 
 
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, ML
 - 💬 Ask me about Technology
 - 📫 How to reach me: 
